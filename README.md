@@ -10,7 +10,7 @@ The Translation Memory ETL (Extract, Transform, Load) project is designed to str
 
 # Prerequisites:
 Before running the pipeline, ensure you have the following prerequisites installed:
-1. Python 3.x.
+1. Python 3.9.12.
 2. 'XML.etree.ElementTree' for parsing XML (typically comes with Python standard library).
 3. Pandas library for working with DataFrames (pip install pandas).
 4. MySQL database server.
