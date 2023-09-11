@@ -8,17 +8,17 @@ Data Transformation: Customize and apply transformations to the extracted conten
 
 Relational Database Integration: Cleaned data efficiently loaded into MySQL, enabling structured storage and easy retrieval.
 ## Work process:
-### Extract, Load, and Transform the TMX format file:
+## Extract, Load, and Transform the TMX format file:
 ![Screenshot 2023-09-11 191206](https://github.com/Munavar7420/EZ_Works-assignment/assets/112122147/98365716-81cd-49c3-b03f-59752682d3ba)
 
-### Transform to dataset:
+## Transform to dataset:
 ![Screenshot 2023-09-11 191301](https://github.com/Munavar7420/EZ_Works-assignment/assets/112122147/55abe47c-7fad-4070-92f9-0f8b91f26ac7)
 
-### Connecting Jupyter Notebook and MYSQL for further operations:
+## Connecting Jupyter Notebook and MYSQL for further operations:
 ![Screenshot 2023-09-11 191334](https://github.com/Munavar7420/EZ_Works-assignment/assets/112122147/be76e486-ac2b-46b8-9c79-090a20d97a9d)
 
-### Creating a database and table to store data:
+## Creating a database and table to store data:
 ![Screenshot 2023-09-11 191448](https://github.com/Munavar7420/EZ_Works-assignment/assets/112122147/ec5ad809-33f9-49fa-b0fc-c621f2ff2bf5)
 
-### Storing data to MySQL server:
+## Storing data to MySQL server:
 ![Screenshot 2023-09-11 191539](https://github.com/Munavar7420/EZ_Works-assignment/assets/112122147/8f34fff3-1896-4e9e-b584-ad618d6f6b24)
