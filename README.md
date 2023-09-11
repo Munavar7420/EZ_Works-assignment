@@ -43,3 +43,6 @@ Before running the pipeline, ensure you have the following prerequisites install
 
 ## Storing data to MySQL server:
 ![Screenshot 2023-09-11 191539](https://github.com/Munavar7420/EZ_Works-assignment/assets/112122147/8f34fff3-1896-4e9e-b584-ad618d6f6b24)
+
+## Data successfully stored in the MySQL database:
+![Screenshot 2023-09-11 203106](https://github.com/Munavar7420/EZ_Works-assignment/assets/112122147/bdec7791-0c7a-4c20-835b-34ef162773b9)
